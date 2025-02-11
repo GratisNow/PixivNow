@@ -43,7 +43,7 @@ importers:
         version: 3.5.13(typescript@5.7.3)
       vue-gtag:
         specifier: ^2.0.1
-        version: 2.0.1(vue@3.5.13(typescript@5.7.3))
+        version: 2.1.0(vue@3.5.13(typescript@5.7.3))
       vue-i18n:
         specifier: ^11.1.0
         version: 11.1.0(vue@3.5.13(typescript@5.7.3))
@@ -2528,8 +2528,8 @@ packages:
       '@vue/composition-api':
         optional: true
 
-  vue-gtag@2.0.1:
-    resolution: {integrity: sha512-aM4A58FVL0wV2ptYi+xzAjeg+pQVRyUcfBc5UkXAwQrR4t3WBhor50Izp2I+3Oo7+l+vWJ7u78DGcNzReb8S/A==}
+  vue-gtag@2.1.0:
+    resolution: {integrity: sha512-lnEiHtNkw37lUug36n023uYWRaFz7s2Wk12G+hdzrTKwWwTBuq0Mcd5e0zH65aKPZRWT+51C6LUHZShpTPiMng==}
     peerDependencies:
       vue: ^3.0.0
 
@@ -5015,7 +5015,7 @@ snapshots:
     dependencies:
       vue: 3.5.13(typescript@5.7.3)
 
-  vue-gtag@2.0.1(vue@3.5.13(typescript@5.7.3)):
+  vue-gtag@2.1.0(vue@3.5.13(typescript@5.7.3)):
     dependencies:
       vue: 3.5.13(typescript@5.7.3)
 
